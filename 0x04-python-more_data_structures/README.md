@@ -1,13 +1,13 @@
 # 0. Squared simple
 ## Write a function that computes the square value of all integers of a matrix.
-Prototype: def square_matrix_simple(matrix=[]):
-matrix is a 2 dimensional array
-Returns a new matrix:
-Same size as matrix
-Each value should be the square of the value of the input
-Initial matrix should not be modified
-You are not allowed to import any module
-You are allowed to use regular loops, map, etc.
+* Prototype: def square_matrix_simple(matrix=[]):
+* matrix is a 2 dimensional array
+* Returns a new matrix:
+* 1. Same size as matrix
+* 2. Each value should be the square of the value of the input
+* Initial matrix should not be modified
+* You are not allowed to import any module
+* You are allowed to use regular loops, map, etc.
 
 # 1. Search and replace
 ## Write a function that replaces all occurrences of an element by another in a new list.
